@@ -1,7 +1,7 @@
 {
-  "username1": {
-    "password": "password1",
-    "tempat_tinggal": "Jakarta",
+  "gapi": {
+    "password": "admin",
+    "id": "1903595159",
     "info_tambahan1": "nilai1",
     "info_tambahan2": "nilai2"
   },
