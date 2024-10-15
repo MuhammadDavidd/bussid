@@ -2,8 +2,8 @@
   "kondisi": {
     "kode": "0",
     "versi": "1.0.0",
-    "pesan": "Script Masih Bisa Digunakan"
-    "maint": "Script Sedang Dalam Perbaikan"
+    "pesan": "Script Masih Bisa Digunakan",
+    "maint": "Script Sedang Dalam Perbaikan",
     "error": "Silahkan Update Script"
   }
 }
